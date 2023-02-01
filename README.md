@@ -1,2 +1,2 @@
 # mygamelist
-A website for game review curation.
+A website to curate game reviews.
